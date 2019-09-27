@@ -1,0 +1,16 @@
+.borde{
+    text-align: center;
+    height: 50px;
+}
+
+.color1{
+    background: aqua;
+}
+
+.color2{
+    background: rgb(204, 115, 64);
+}
+
+.color3{
+    background: rgb(196, 41, 113);
+}
